@@ -1,0 +1,419 @@
+{
+  "programs": [
+    {
+      "faculty": "Engineering (UG)",
+      "program_name": "Computer Science and Engineering (CSE)",
+      "raw_columns": [
+        "1",
+        "Computer Science and Engineering (CSE)",
+        "BTech-CSE(23 scheme)BTech-CSE(24 scheme)BTech-CSE(25 scheme)"
+      ],
+      "source_url": "https://gmu.ac.in/fetug"
+    },
+    {
+      "faculty": "Engineering (UG)",
+      "program_name": "Computer Science -AI & ML",
+      "raw_columns": [
+        "2",
+        "Computer Science -AI & ML",
+        "BTech-CS-AI & ML(23 Scheme)BTech-CS-AI & ML(24 Scheme)BTech-CS-AI & ML(25 Scheme)"
+      ],
+      "source_url": "https://gmu.ac.in/fetug"
+    },
+    {
+      "faculty": "Engineering (UG)",
+      "program_name": "Information Science and Engineering",
+      "raw_columns": [
+        "3",
+        "Information Science and Engineering",
+        "BTech-ISE(23 scheme)BTech-ISE(24 scheme)BTech-ISE(25 scheme)"
+      ],
+      "source_url": "https://gmu.ac.in/fetug"
+    },
+    {
+      "faculty": "Engineering (UG)",
+      "program_name": "Computer Science-Data Science",
+      "raw_columns": [
+        "4",
+        "Computer Science-Data Science",
+        "BTech-CS-DS(23 scheme)BTech-CS-DS(24 scheme)BTech-CS-DS(25 scheme)"
+      ],
+      "source_url": "https://gmu.ac.in/fetug"
+    },
+    {
+      "faculty": "Engineering (UG)",
+      "program_name": "Computer Science- Cloud Computing",
+      "raw_columns": [
+        "5",
+        "Computer Science- Cloud Computing",
+        "BTech-CS-CC(23 scheme)BTech-CS-CC(24 scheme)BTech-CS-CC(25 scheme)"
+      ],
+      "source_url": "https://gmu.ac.in/fetug"
+    },
+    {
+      "faculty": "Engineering (UG)",
+      "program_name": "Computer Science- Cyber Security",
+      "raw_columns": [
+        "6",
+        "Computer Science- Cyber Security",
+        "BTech-CS-CSBTech-CS-CS(24 scheme)BTech-CS-CS(25 scheme)"
+      ],
+      "source_url": "https://gmu.ac.in/fetug"
+    },
+    {
+      "faculty": "Engineering (UG)",
+      "program_name": "Computer Science-Information security",
+      "raw_columns": [
+        "7",
+        "Computer Science-Information security",
+        "BTech-CS-IS(23 scheme)BTech-CS-IS(24 scheme)BTech-CS-IS(25 scheme)"
+      ],
+      "source_url": "https://gmu.ac.in/fetug"
+    },
+    {
+      "faculty": "Engineering (UG)",
+      "program_name": "Computer Science-AI- Block Chain & Business Systems",
+      "raw_columns": [
+        "8",
+        "Computer Science-AI- Block Chain & Business Systems",
+        "BTech-CS-AI-BC & BS(23 scheme)BTech-CS-AI-BC & BS(24 scheme)BTech-CS-AI-BC & BS(25 scheme)"
+      ],
+      "source_url": "https://gmu.ac.in/fetug"
+    },
+    {
+      "faculty": "Engineering (UG)",
+      "program_name": "Computer Science - IOT with AI",
+      "raw_columns": [
+        "9",
+        "Computer Science - IOT with AI",
+        "BTech-CS-IOT with AIBTech-CS-IOT with AIBTech-CS-IOT with AI"
+      ],
+      "source_url": "https://gmu.ac.in/fetug"
+    },
+    {
+      "faculty": "Engineering (UG)",
+      "program_name": "Electronics and Communication Engineering",
+      "raw_columns": [
+        "10",
+        "Electronics and Communication Engineering",
+        "BTech-ECE (23-Scheme)BTech-ECE (24-Scheme)BTech-ECE (25-Scheme)"
+      ],
+      "source_url": "https://gmu.ac.in/fetug"
+    },
+    {
+      "faculty": "Engineering (UG)",
+      "program_name": "Electrical and Electronics Engineering",
+      "raw_columns": [
+        "11",
+        "Electrical and Electronics Engineering",
+        "BTech-EEE (23-Scheme)BTech-EEE (24-Scheme)BTech-EEE (25-Scheme)"
+      ],
+      "source_url": "https://gmu.ac.in/fetug"
+    },
+    {
+      "faculty": "Engineering (UG)",
+      "program_name": "Robotics and Automation",
+      "raw_columns": [
+        "12",
+        "Robotics and Automation",
+        "BTech-RA (24-Scheme)BTech-RA (25-Scheme)"
+      ],
+      "source_url": "https://gmu.ac.in/fetug"
+    },
+    {
+      "faculty": "Engineering (UG)",
+      "program_name": "Engineering Design",
+      "raw_columns": [
+        "13",
+        "Engineering Design",
+        "BTech-ED (24-Scheme)BTech-ED (25-Scheme)"
+      ],
+      "source_url": "https://gmu.ac.in/fetug"
+    },
+    {
+      "faculty": "Engineering (UG)",
+      "program_name": "Civil Engineering",
+      "raw_columns": [
+        "14",
+        "Civil Engineering",
+        "BTech-CE (24-Scheme)BTech-CE (25-Scheme)"
+      ],
+      "source_url": "https://gmu.ac.in/fetug"
+    },
+    {
+      "faculty": "Engineering (UG)",
+      "program_name": "Biotechnology",
+      "raw_columns": [
+        "15",
+        "Biotechnology",
+        "BTech-BT (24-Scheme)BTech-BT (25-Scheme)"
+      ],
+      "source_url": "https://gmu.ac.in/fetug"
+    },
+    {
+      "faculty": "Engineering (UG)",
+      "program_name": "Mechanical Engineering",
+      "raw_columns": [
+        "16",
+        "Mechanical Engineering",
+        "BTech-ME (25-Scheme)"
+      ],
+      "source_url": "https://gmu.ac.in/fetug"
+    },
+    {
+      "faculty": "Engineering (PG)",
+      "program_name": "M.Tech. Data Engineering",
+      "raw_columns": [
+        "1",
+        "M.Tech. Data Engineering",
+        "PD-DE"
+      ],
+      "source_url": "https://gmu.ac.in/fetpg"
+    },
+    {
+      "faculty": "Engineering (PG)",
+      "program_name": "M.Tech. Deep Learning",
+      "raw_columns": [
+        "2",
+        "M.Tech. Deep Learning",
+        "PD-DL"
+      ],
+      "source_url": "https://gmu.ac.in/fetpg"
+    },
+    {
+      "faculty": "Engineering (PG)",
+      "program_name": "M.Tech. Artificial Intelligence in Health Care",
+      "raw_columns": [
+        "3",
+        "M.Tech. Artificial Intelligence in Health Care",
+        "PD-AIHC"
+      ],
+      "source_url": "https://gmu.ac.in/fetpg"
+    },
+    {
+      "faculty": "Engineering (PG)",
+      "program_name": "M.Tech. Computer Aided Structural Engineering",
+      "raw_columns": [
+        "4",
+        "M.Tech. Computer Aided Structural Engineering",
+        "PD-CASE"
+      ],
+      "source_url": "https://gmu.ac.in/fetpg"
+    },
+    {
+      "faculty": "Engineering (PG)",
+      "program_name": "M. Tech. in Advanced Electronics and Intelligent Communication Systems",
+      "raw_columns": [
+        "5",
+        "M. Tech. in Advanced Electronics and Intelligent Communication Systems",
+        "PD-AEICS"
+      ],
+      "source_url": "https://gmu.ac.in/fetpg"
+    },
+    {
+      "faculty": "Engineering (PG)",
+      "program_name": "M. Tech. in Smart Electrical Systems and Sustainable Energy",
+      "raw_columns": [
+        "6",
+        "M. Tech. in Smart Electrical Systems and Sustainable Energy",
+        "PD-SESSE"
+      ],
+      "source_url": "https://gmu.ac.in/fetpg"
+    },
+    {
+      "faculty": "Engineering (PG)",
+      "program_name": "M.Tech. in Product Development and Marketing",
+      "raw_columns": [
+        "7",
+        "M.Tech. in Product Development and Marketing",
+        "PD-PDM"
+      ],
+      "source_url": "https://gmu.ac.in/fetpg"
+    },
+    {
+      "faculty": "Engineering (PG)",
+      "program_name": "M. Tech. in Bioengineering and Genetic Technology",
+      "raw_columns": [
+        "8",
+        "M. Tech. in Bioengineering and Genetic Technology",
+        "PD-BEGT"
+      ],
+      "source_url": "https://gmu.ac.in/fetpg"
+    },
+    {
+      "faculty": "Commerce (UG)",
+      "program_name": "BCA- Computer Applications",
+      "raw_columns": [
+        "1",
+        "BCA- Computer Applications",
+        "PD-BCA"
+      ],
+      "source_url": "https://gmu.ac.in/fcitug"
+    },
+    {
+      "faculty": "Commerce (UG)",
+      "program_name": "BCA-Data Science",
+      "raw_columns": [
+        "2",
+        "BCA-Data Science",
+        "PD-DS"
+      ],
+      "source_url": "https://gmu.ac.in/fcitug"
+    },
+    {
+      "faculty": "Commerce (UG)",
+      "program_name": "BCA-AI and Data Analytics",
+      "raw_columns": [
+        "3",
+        "BCA-AI and Data Analytics",
+        "PD-AI &DA"
+      ],
+      "source_url": "https://gmu.ac.in/fcitug"
+    },
+    {
+      "faculty": "Commerce (UG)",
+      "program_name": "BCA -Cyber Security",
+      "raw_columns": [
+        "4",
+        "BCA -Cyber Security",
+        "PD-CS"
+      ],
+      "source_url": "https://gmu.ac.in/fcitug"
+    },
+    {
+      "faculty": "Commerce (UG)",
+      "program_name": "",
+      "raw_columns": [
+        "Students can opt for a 3-year degree program or a 4-year honors program"
+      ],
+      "source_url": "https://gmu.ac.in/fcitug"
+    },
+    {
+      "faculty": "Commerce (PG)",
+      "program_name": "MCA- Computer Applications",
+      "raw_columns": [
+        "1",
+        "MCA- Computer Applications",
+        "PD-MCA"
+      ],
+      "source_url": "https://gmu.ac.in/fcitpg"
+    },
+    {
+      "faculty": "Commerce (PG)",
+      "program_name": "MSc- Data Science",
+      "raw_columns": [
+        "2",
+        "MSc- Data Science",
+        "PD-PDS"
+      ],
+      "source_url": "https://gmu.ac.in/fcitpg"
+    },
+    {
+      "faculty": "Commerce (PG)",
+      "program_name": "MSc- AI and Data Analytics",
+      "raw_columns": [
+        "3",
+        "MSc- AI and Data Analytics",
+        "PD-PAI&DS"
+      ],
+      "source_url": "https://gmu.ac.in/fcitpg"
+    },
+    {
+      "faculty": "Commerce (PG)",
+      "program_name": "MSc- Cyber Security",
+      "raw_columns": [
+        "4",
+        "MSc- Cyber Security",
+        "PD-PCS"
+      ],
+      "source_url": "https://gmu.ac.in/fcitpg"
+    }
+  ],
+  "academic_assessment": [],
+  "program_fee": [],
+  "contacts": [
+    {
+      "raw_text": "GMU - Contact Us call 18001237099 | send info@gmu.ac.in KCET Codes : B.Tech - E303 | MCA - C568 | MBA - B086 LOGIN About Us Introduction Srishyla Educational Trust G M University GMU- Campus GMU Logo, Flag and Mascot GMU- Anthem Vision, Mission, Values, and Objectives Leadership Chancellor Vice chancellor Pro Vice Chancellor Registrar Chief Financial Officer Statutory Committees Board of Governors Board of Management Academic Council Research and Innovation Council Finance Committee Skill and Vocational Development Council University Documents University Act University Notification University Statutes UGC Letter Organisation Structure University Best Practices Information and Communication Technology (ICT) Learning Management System (LMS) Human Resources (HR) Collaboration and Cooperation Programs UG Programs Faculty of Engineering and Technology (FET) Faculty of Computing and IT (FCIT) Faculty of Basic and Applied Sciences (FBAS) Faculty of Commerce and Management (FCM) GM School of Law (GMSL) PG Programs Faculty of Engineering and Technology (FET) Faculty of Computing and IT (FCIT) Faculty of Basic and Applied Sciences (FBAS) Faculty of Commerce and Management (FCM) GM School of Advanced Studies (GMSAS) GM Business School(GMBS) Admissions Overview Admission Enquiry Programs Offered Admission Criteria Admission Flow Admission Process Program Fee International Admissions Admission Documents Scholorships Admission Counselling Education Loan Refund Policy FAQs Entrance Test Lateral Entry Academics Introduction Academic Schedule UG PG Fees Structure Fee Payment Faculties Faculty of Engineering and Technology (FET) Dean's Message Faculty Vision and Mission School of Computer Science and Technology School of Engineering Faculty of Computing and IT (FCIT) Dean's Message Faculty Vision and Mission School of Computer Applications (SCA) School of Computer Science (SCS) Faculty of Basic and Applied Sciences (FBAS) Dean's Message Faculty Vision and Mission School of Mathematical and Physical Sciences School of Chemical and Biological Sciences School of Applied Sciences Faculty of Commerce and Management (FCM) Dean's Message Faculty Vision and Mission School of Commerce School of Management Undergraduate Programs GM School of Advanced Studies (GMSAS) Director's Message Faculty Vision and Mission Programs GM Business School(GMBS) Dean's Message MBA Programs GM School of Law (GMSL) Director's Message School Vision and Mission Programs Research Introduction Research Advisor Message Dean's Message Research Co-ordinators PhD Programs offered & PhD Regulations Notifications & Circulars Galary Curriculum Common to all Faculty of Engineering and Technology (FET) School of Computer Science and Technology (SCST) School of Engineering (SE) Faculty of Computing and IT (FCIT) Faculty of Basic and Applied Sciences (FBAS) Faculty of Commerce and Management (FCM) School of Commerce (SC) School of Management (Sm) PhD Admissions PhD Supervisors PhD Research Scholar List Journal Publications Conference Publications Conferences/Symposium Organized Patents Research Bulletin Sponsored/Grant Research Prestigious Lecture Series Centres of Excellence Skill Development LEAP School of Vocational Training School of Vocational Training Technical Diploma Programs Certificate Programs BVoc Degree Programs Short-Term Vocational Skill Courses Community Development Assessment Circulars Fee structure Academic Schedule UG PG Assessment Regulations UG PG Dates of Academic Schedule 2024-25 Dates of Academic Schedule 2025-26 Students Mentoring Proctorial System IQAC Introduction Director's Message IQAC Co-ordinators Quality Policy and Benchmarks IQAC-Reports Campus Life Campus Tour Director's Message Campus Life at GMU Student Clubs Technical Clubs AI, Robotics & Machine Learning Club Cybersecurity & Ethical Hacking Club Embedded Systems & Intelligent Mechatronics Club Green Tech and Sustainable Engineering Club Coding, App & Web Development Club Non-Technical Clubs Literary, Debating & Public Speaking Society Cultural and Performing Arts Club Social Impact & Community Outreach Club (Community Connect) Quiz & Knowledge Club (Brainwave Society) Fine Arts &Creative Expression Club Athletics & Sports Students Chapters of Professional Bodies ACM Student Chapter IEEE Student Chapter SAE India Collegiate Club Computer Society of India (CSI) Chapter ASME Student Chapter ISTE Student Chapter Ignitron Mallika SA Co-ordinators Promotions Placements Introduction to CASP Career Advice, Life Skills and Placement Training at GMU Student Placement Details at GMU Placement Statistics Placement Manual IDEA Lab About IDEA Lab GMU IDEA Lab Key Features Facilities Available Organisation Messeage from Chief Executive Officer Director's Message IDEA Lab Co-ordinators Innovation and Design Thinking Week Schedule Startup Policy Agreement Format-Startup GMU-Developed Products Registration Library Introduction Librarian's Message About Library Library Working Hours Library Sections Library Committee Library Staff Library Statistics Library Membership Library Rules and Regulations Library Services & Facilities Library Gallery University Repository Committees UGC-Mandatory Disclosures Public Self Disclosure Proforma Notifications Careers Contact Us Log in Sign up LOGIN Home About Us Introduction Srishyla Educational Trust G M University GMU- Campus GMU Logo, Flag and Mascot GMU- Anthem Vision, Mission, Values, and Objectives Leadership Chancellor Vice chancellor Pro Vice Chancellor Registrar Statutory Committees Board of Governors Board of Management Academic Council Research and Innovation Council Finance Committee Skill and Vocational Development Council University Documents University Act University Notification University Statutes UGC Letter Organisation Structure University Best Practices Information and Communication Technology (ICT) Learning Management System (LMS) Human Resources (HR) Collaboration and Cooperation Programs UG Programs Faculty of Engineering and Technology (FET) Faculty of Computing and IT (FCIT) Faculty of Basic and Applied Sciences (FBAS) Faculty of Commerce and Management (FCM) GM School of Law (GMSL) PG Programs Faculty of Engineering and Technology (FET) Faculty of Computing and IT (FCIT) Faculty of Basic and Applied Sciences (FBAS) Faculty of Commerce and Management (FCM) GM School of Advanced Studies (GMSAS) GM Business School(GMBS) Admissions Overview Admission Enquiry Programs Offered Admission Criteria Admission Flow Admission Process Program Fee International Admissions Admission Documents Scholorships Admission Counselling Education Loan Refund Policy FAQs Entrance Test Lateral Entry Academics Introduction Academic Schedule UG PG Fees Structure Fee Payment Campus life Campus Tour Directors Message Campus Life at GMU Calendar of Events Facility and Contact Details Promotions Student Placements Introduction to CASP Career Advice, Life Skills and Placement Training at GMU Student Placement Details at GMU Placement Statistics Placement Manual Contact Us Careers Log in Sign up Contact Us 📞 9364099720 ✉️ admissions@gmu.ac.in 📞 6364259993 Submit Lead Form 📞 +91 8192-233345 📞 +91 8192-233377 📞 +91 8192-233399 📞 +91 8192-233344 📞 +91 8192-233345 Or complete our quick enquiry form we will get back to you! S. No. Department Name Mobile e-mail 1 University Ms. Nischita M Gokavi Ms. H Priya 9364898247 dir.hr@gmu.ac.in ps.vc@gmu.ac.in 2 Admission Manager and Academic Registration Officer Nandini B A 9364099720 nandini.aro@gmu.ac.in 3 Dean- Marketing and promotion Dr. Veeragangadhara Swamy 9449950591 dean.mp@gmu.ac.in 4 Registrar Dr. Sunil Kumar B S 6364259993 registrar@gmu.ac.in 5 Director, Student Affairs Dr. Kiran Kumar 9663368484 director.sa@gmu.ac.in 6 Director, Career Advice and Students Placements Dr. Sanjay Kumar 9848456868 Director.casp@gmu.ac.in 7 Hostels Dr. Girish Bolakatti 9901499119 chiefwarden@gmu.ac.in 8 Director – School of Vocational Training Dr. Sreedhar B R 9448394632 director.svt@gmu.ac.in 9 Director- School of Digital Technical Competency Development Prof. Keerthi Prasad Dr. Shivaprakash Palleda 9620945991 8073061654 director.sdtcd@gmu.ac.in assocdirector.sdtcd@gmu.ac.in 10 Director- GM Techno Solutions Dr. Srinivasa C V 9448588792 director.ctcp@gmu.ac.in 11 Dean Research Dr. Bharath K. N. 9844400397 dean.research@gmu.ac.in Admissions open for academic year 2025-26 Admissions open for academic year 2025-26 Admissions open for academic year 2025-26 Press & Media More-News GM University P.B. Road , Davanagere Davangere - 577006 Karnataka info@gmu.ac.in 6364259993 Notice Board Assessment and Evaluation Circular-PhD Orientation Programme-2023-24 Circular for RPRC-2024 University Calendar of Events Proctor’s Handbook Students Affairs Handbook Digital Technical Competency Development Handbook Career Advice and Placements Handbook Innovation and Incubation Handbook Library Handbook Professor of Practice Professor of Eminence Institutional Documents GMU Academic Processes Hand Book GMU Knowledge Series GM University Brochure GM University Annual Reports University Presentation A Quarterly Campus Magazine Research Bulletin Research Support University Policies UGC Statutary Commitees University Convocation Proceedings Copyright © 2024 GM UNIVERSITY All Rights Reserved I'm a beta version ©️ All rights reserved - GEM VENTURES LLP",
+      "source_url": "https://gmu.ac.in/contact"
+    }
+  ],
+  "faculty": [],
+  "governance": [],
+  "phd_supervisors": [
+    {
+      "columns": [
+        "Under Graduate Programs",
+        ""
+      ],
+      "source_url": "https://gmu.ac.in/programfee"
+    },
+    {
+      "columns": [
+        "Post Graduate & PhD Programs",
+        ""
+      ],
+      "source_url": "https://gmu.ac.in/programfee"
+    },
+    {
+      "columns": [
+        "Mode of Payment",
+        "Credit Card / DD / or Through Online and No Cheque shall be entertained"
+      ],
+      "source_url": "https://gmu.ac.in/programfee"
+    },
+    {
+      "columns": [
+        "FEE COMPONENTS"
+      ],
+      "source_url": "https://gmu.ac.in/programfee"
+    },
+    {
+      "columns": [
+        "1",
+        "Tuition Fee",
+        "Tuition Feeis the main fee to be paid by the student for availing the program leading to a degree or diploma"
+      ],
+      "source_url": "https://gmu.ac.in/programfee"
+    },
+    {
+      "columns": [
+        "2",
+        "University Fee",
+        "University Feeincludes fees like registration fee, library fee, laboratory fee, sports fee, cultural club fee, Cultural day, sports day, internet facilities and such fees"
+      ],
+      "source_url": "https://gmu.ac.in/programfee"
+    },
+    {
+      "columns": [
+        "3",
+        "Other Statutory Fee",
+        "Other Feesuch as Examination Fee, Eligibility Fee (in case of a foreign students) and Skill Lab fee payable at actuals as per the government directives"
+      ],
+      "source_url": "https://gmu.ac.in/programfee"
+    },
+    {
+      "columns": [
+        "4",
+        "Miscellaneous Fee",
+        "Miscellaneous FeeStudents may have to pay fee for certain training course that are run by the University for the benefit of students"
+      ],
+      "source_url": "https://gmu.ac.in/programfee"
+    },
+    {
+      "columns": [
+        "5",
+        "Hostel Fee",
+        "Those students who would like to avail hostel accommodation and boarding must pay hostel fee. Students are advised to call Student Affairs department for the detailsContact: 83108 47176"
+      ],
+      "source_url": "https://gmu.ac.in/programfee"
+    },
+    {
+      "columns": [
+        "6",
+        "Transport Fee",
+        "Those students who would like to avail University Bus facility must pay Transport fee. Students are advised to call Student Affairs department for the detailsContact: 94488 73484"
+      ],
+      "source_url": "https://gmu.ac.in/programfee"
+    }
+  ]
+}

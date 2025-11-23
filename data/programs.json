@@ -1,0 +1,330 @@
+[
+  {
+    "faculty": "Engineering (UG)",
+    "program_name": "Computer Science and Engineering (CSE)",
+    "raw_columns": [
+      "1",
+      "Computer Science and Engineering (CSE)",
+      "BTech-CSE(23 scheme)BTech-CSE(24 scheme)BTech-CSE(25 scheme)"
+    ],
+    "source_url": "https://gmu.ac.in/fetug"
+  },
+  {
+    "faculty": "Engineering (UG)",
+    "program_name": "Computer Science -AI & ML",
+    "raw_columns": [
+      "2",
+      "Computer Science -AI & ML",
+      "BTech-CS-AI & ML(23 Scheme)BTech-CS-AI & ML(24 Scheme)BTech-CS-AI & ML(25 Scheme)"
+    ],
+    "source_url": "https://gmu.ac.in/fetug"
+  },
+  {
+    "faculty": "Engineering (UG)",
+    "program_name": "Information Science and Engineering",
+    "raw_columns": [
+      "3",
+      "Information Science and Engineering",
+      "BTech-ISE(23 scheme)BTech-ISE(24 scheme)BTech-ISE(25 scheme)"
+    ],
+    "source_url": "https://gmu.ac.in/fetug"
+  },
+  {
+    "faculty": "Engineering (UG)",
+    "program_name": "Computer Science-Data Science",
+    "raw_columns": [
+      "4",
+      "Computer Science-Data Science",
+      "BTech-CS-DS(23 scheme)BTech-CS-DS(24 scheme)BTech-CS-DS(25 scheme)"
+    ],
+    "source_url": "https://gmu.ac.in/fetug"
+  },
+  {
+    "faculty": "Engineering (UG)",
+    "program_name": "Computer Science- Cloud Computing",
+    "raw_columns": [
+      "5",
+      "Computer Science- Cloud Computing",
+      "BTech-CS-CC(23 scheme)BTech-CS-CC(24 scheme)BTech-CS-CC(25 scheme)"
+    ],
+    "source_url": "https://gmu.ac.in/fetug"
+  },
+  {
+    "faculty": "Engineering (UG)",
+    "program_name": "Computer Science- Cyber Security",
+    "raw_columns": [
+      "6",
+      "Computer Science- Cyber Security",
+      "BTech-CS-CSBTech-CS-CS(24 scheme)BTech-CS-CS(25 scheme)"
+    ],
+    "source_url": "https://gmu.ac.in/fetug"
+  },
+  {
+    "faculty": "Engineering (UG)",
+    "program_name": "Computer Science-Information security",
+    "raw_columns": [
+      "7",
+      "Computer Science-Information security",
+      "BTech-CS-IS(23 scheme)BTech-CS-IS(24 scheme)BTech-CS-IS(25 scheme)"
+    ],
+    "source_url": "https://gmu.ac.in/fetug"
+  },
+  {
+    "faculty": "Engineering (UG)",
+    "program_name": "Computer Science-AI- Block Chain & Business Systems",
+    "raw_columns": [
+      "8",
+      "Computer Science-AI- Block Chain & Business Systems",
+      "BTech-CS-AI-BC & BS(23 scheme)BTech-CS-AI-BC & BS(24 scheme)BTech-CS-AI-BC & BS(25 scheme)"
+    ],
+    "source_url": "https://gmu.ac.in/fetug"
+  },
+  {
+    "faculty": "Engineering (UG)",
+    "program_name": "Computer Science - IOT with AI",
+    "raw_columns": [
+      "9",
+      "Computer Science - IOT with AI",
+      "BTech-CS-IOT with AIBTech-CS-IOT with AIBTech-CS-IOT with AI"
+    ],
+    "source_url": "https://gmu.ac.in/fetug"
+  },
+  {
+    "faculty": "Engineering (UG)",
+    "program_name": "Electronics and Communication Engineering",
+    "raw_columns": [
+      "10",
+      "Electronics and Communication Engineering",
+      "BTech-ECE (23-Scheme)BTech-ECE (24-Scheme)BTech-ECE (25-Scheme)"
+    ],
+    "source_url": "https://gmu.ac.in/fetug"
+  },
+  {
+    "faculty": "Engineering (UG)",
+    "program_name": "Electrical and Electronics Engineering",
+    "raw_columns": [
+      "11",
+      "Electrical and Electronics Engineering",
+      "BTech-EEE (23-Scheme)BTech-EEE (24-Scheme)BTech-EEE (25-Scheme)"
+    ],
+    "source_url": "https://gmu.ac.in/fetug"
+  },
+  {
+    "faculty": "Engineering (UG)",
+    "program_name": "Robotics and Automation",
+    "raw_columns": [
+      "12",
+      "Robotics and Automation",
+      "BTech-RA (24-Scheme)BTech-RA (25-Scheme)"
+    ],
+    "source_url": "https://gmu.ac.in/fetug"
+  },
+  {
+    "faculty": "Engineering (UG)",
+    "program_name": "Engineering Design",
+    "raw_columns": [
+      "13",
+      "Engineering Design",
+      "BTech-ED (24-Scheme)BTech-ED (25-Scheme)"
+    ],
+    "source_url": "https://gmu.ac.in/fetug"
+  },
+  {
+    "faculty": "Engineering (UG)",
+    "program_name": "Civil Engineering",
+    "raw_columns": [
+      "14",
+      "Civil Engineering",
+      "BTech-CE (24-Scheme)BTech-CE (25-Scheme)"
+    ],
+    "source_url": "https://gmu.ac.in/fetug"
+  },
+  {
+    "faculty": "Engineering (UG)",
+    "program_name": "Biotechnology",
+    "raw_columns": [
+      "15",
+      "Biotechnology",
+      "BTech-BT (24-Scheme)BTech-BT (25-Scheme)"
+    ],
+    "source_url": "https://gmu.ac.in/fetug"
+  },
+  {
+    "faculty": "Engineering (UG)",
+    "program_name": "Mechanical Engineering",
+    "raw_columns": [
+      "16",
+      "Mechanical Engineering",
+      "BTech-ME (25-Scheme)"
+    ],
+    "source_url": "https://gmu.ac.in/fetug"
+  },
+  {
+    "faculty": "Engineering (PG)",
+    "program_name": "M.Tech. Data Engineering",
+    "raw_columns": [
+      "1",
+      "M.Tech. Data Engineering",
+      "PD-DE"
+    ],
+    "source_url": "https://gmu.ac.in/fetpg"
+  },
+  {
+    "faculty": "Engineering (PG)",
+    "program_name": "M.Tech. Deep Learning",
+    "raw_columns": [
+      "2",
+      "M.Tech. Deep Learning",
+      "PD-DL"
+    ],
+    "source_url": "https://gmu.ac.in/fetpg"
+  },
+  {
+    "faculty": "Engineering (PG)",
+    "program_name": "M.Tech. Artificial Intelligence in Health Care",
+    "raw_columns": [
+      "3",
+      "M.Tech. Artificial Intelligence in Health Care",
+      "PD-AIHC"
+    ],
+    "source_url": "https://gmu.ac.in/fetpg"
+  },
+  {
+    "faculty": "Engineering (PG)",
+    "program_name": "M.Tech. Computer Aided Structural Engineering",
+    "raw_columns": [
+      "4",
+      "M.Tech. Computer Aided Structural Engineering",
+      "PD-CASE"
+    ],
+    "source_url": "https://gmu.ac.in/fetpg"
+  },
+  {
+    "faculty": "Engineering (PG)",
+    "program_name": "M. Tech. in Advanced Electronics and Intelligent Communication Systems",
+    "raw_columns": [
+      "5",
+      "M. Tech. in Advanced Electronics and Intelligent Communication Systems",
+      "PD-AEICS"
+    ],
+    "source_url": "https://gmu.ac.in/fetpg"
+  },
+  {
+    "faculty": "Engineering (PG)",
+    "program_name": "M. Tech. in Smart Electrical Systems and Sustainable Energy",
+    "raw_columns": [
+      "6",
+      "M. Tech. in Smart Electrical Systems and Sustainable Energy",
+      "PD-SESSE"
+    ],
+    "source_url": "https://gmu.ac.in/fetpg"
+  },
+  {
+    "faculty": "Engineering (PG)",
+    "program_name": "M.Tech. in Product Development and Marketing",
+    "raw_columns": [
+      "7",
+      "M.Tech. in Product Development and Marketing",
+      "PD-PDM"
+    ],
+    "source_url": "https://gmu.ac.in/fetpg"
+  },
+  {
+    "faculty": "Engineering (PG)",
+    "program_name": "M. Tech. in Bioengineering and Genetic Technology",
+    "raw_columns": [
+      "8",
+      "M. Tech. in Bioengineering and Genetic Technology",
+      "PD-BEGT"
+    ],
+    "source_url": "https://gmu.ac.in/fetpg"
+  },
+  {
+    "faculty": "Commerce (UG)",
+    "program_name": "BCA- Computer Applications",
+    "raw_columns": [
+      "1",
+      "BCA- Computer Applications",
+      "PD-BCA"
+    ],
+    "source_url": "https://gmu.ac.in/fcitug"
+  },
+  {
+    "faculty": "Commerce (UG)",
+    "program_name": "BCA-Data Science",
+    "raw_columns": [
+      "2",
+      "BCA-Data Science",
+      "PD-DS"
+    ],
+    "source_url": "https://gmu.ac.in/fcitug"
+  },
+  {
+    "faculty": "Commerce (UG)",
+    "program_name": "BCA-AI and Data Analytics",
+    "raw_columns": [
+      "3",
+      "BCA-AI and Data Analytics",
+      "PD-AI &DA"
+    ],
+    "source_url": "https://gmu.ac.in/fcitug"
+  },
+  {
+    "faculty": "Commerce (UG)",
+    "program_name": "BCA -Cyber Security",
+    "raw_columns": [
+      "4",
+      "BCA -Cyber Security",
+      "PD-CS"
+    ],
+    "source_url": "https://gmu.ac.in/fcitug"
+  },
+  {
+    "faculty": "Commerce (UG)",
+    "program_name": "",
+    "raw_columns": [
+      "Students can opt for a 3-year degree program or a 4-year honors program"
+    ],
+    "source_url": "https://gmu.ac.in/fcitug"
+  },
+  {
+    "faculty": "Commerce (PG)",
+    "program_name": "MCA- Computer Applications",
+    "raw_columns": [
+      "1",
+      "MCA- Computer Applications",
+      "PD-MCA"
+    ],
+    "source_url": "https://gmu.ac.in/fcitpg"
+  },
+  {
+    "faculty": "Commerce (PG)",
+    "program_name": "MSc- Data Science",
+    "raw_columns": [
+      "2",
+      "MSc- Data Science",
+      "PD-PDS"
+    ],
+    "source_url": "https://gmu.ac.in/fcitpg"
+  },
+  {
+    "faculty": "Commerce (PG)",
+    "program_name": "MSc- AI and Data Analytics",
+    "raw_columns": [
+      "3",
+      "MSc- AI and Data Analytics",
+      "PD-PAI&DS"
+    ],
+    "source_url": "https://gmu.ac.in/fcitpg"
+  },
+  {
+    "faculty": "Commerce (PG)",
+    "program_name": "MSc- Cyber Security",
+    "raw_columns": [
+      "4",
+      "MSc- Cyber Security",
+      "PD-PCS"
+    ],
+    "source_url": "https://gmu.ac.in/fcitpg"
+  }
+]

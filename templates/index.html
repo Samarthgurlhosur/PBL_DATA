@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GMU Chatbot – College Assistant</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+  <div class="app-container">
+
+    <!-- Header -->
+    <header class="app-header">
+      <div class="logo-circle">GMU</div>
+      <div class="header-text">
+        <h1>GMU College Chatbot</h1>
+        <p>Your smart assistant for all GM University queries.</p>
+      </div>
+    </header>
+
+    <!-- Chat Window (scrollable section) -->
+    <main class="chat-container">
+      <div id="chat-window" class="chat-window">
+
+        <!-- Initial Message -->
+        <div class="message bot">
+          <div class="avatar bot-avatar">🤖</div>
+          <div class="bubble">
+            Hi! I’m your GMU virtual assistant 😊<br>
+            Ask me anything about admissions, courses, exams, placements or campus life.
+          </div>
+        </div>
+
+      </div>
+    </main>
+
+    <!-- Input Bar (always fixed at bottom) -->
+    <footer class="input-container">
+      <input
+        type="text"
+        id="user-input"
+        placeholder="Type your message here..."
+        autocomplete="off"
+      />
+      <button id="send-btn">Send</button>
+    </footer>
+
+    <!-- Typing Animation -->
+    <div id="typing-indicator" class="typing hidden">
+      <span></span><span></span><span></span>
+    </div>
+
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>
